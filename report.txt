@@ -1,0 +1,2 @@
+Customer: Ahmed
+Total: 1050

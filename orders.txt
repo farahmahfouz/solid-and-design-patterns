@@ -1,0 +1,21 @@
+[
+  {
+    "customer": {
+      "name": "Ali",
+      "email": "ali@example.com"
+    },
+    "items": [
+      {
+        "name": "Book",
+        "price": 10,
+        "quantity": 2
+      },
+      {
+        "name": "Pen",
+        "price": 2,
+        "quantity": 5
+      }
+    ],
+    "total": 30
+  }
+]
